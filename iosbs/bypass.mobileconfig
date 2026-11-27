@@ -1,0 +1,51 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+<!DOCTYPE plist PUBLIC “-//Apple//DTD PLIST 1.0//EN” “http://www.apple.com/DTDs/PropertyList-1.0.dtd”>
+<plist version=”1.0”>
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowBookstoreErotica</key>
+            <false/>
+            <key>allowExplicitContent</key>
+            <false/>
+            <key>allowRemoteScreenObservation</key>
+            <false/>
+            <key>forceClassroomUnpromptedScreenObservation</key>
+            <false/>
+            <key>forceClassroomAutomaticallyJoinClasses</key>
+            <false/>
+            <key>forceClassroomRequestPermissionToLeaveClasses</key>
+            <false/>
+            <key>forceClassroomUnpromptedAppAndDeviceLock</key>
+            <false/>
+            <key>forceClassroomUnpromptedScreenObservation</key>
+            <false/>
+            <key>allowEnablingRestrictions</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.kodoomer.coolstuff</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>52bec1be-ffec-4f88-acbd-b02aee8f04a9</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>cool stuff bypass</string>
+    <key>PayloadOrganization</key>
+    <string>me ofc</string>
+	<key>PayloadDescription</key>
+	<string>install to get no screen time 🤑</string>
+    <key>PayloadIdentifier</key>
+    <string>com.kodoomer.coolstuff</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>6020206c-12c2-4ada-986a-dd4c560ca73a</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
